@@ -1,0 +1,63 @@
+# Site settings
+title: "Rahul Venigalla"
+description: "A resume template Rahul Venigalla."
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "false"
+resume_name:                    "Rahul Venigalla"
+resume_title:                   "Consulting at StockIn"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "rahulv.online@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "314-332-9306"
+resume_contact_address:         "Chesterfield, Missouri"
+
+resume_header_contact_info:     "Chesterfield, Missouri • 314-332-9306 • rahulv.online@gmail.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>I am Finance and Computer Science student at Indiana University - Bloomington, with a minor in Economics. Currently pursuing roles in Wealth Management or Product Management, combining strong analytical and technical skills. As a consultant at StockIn, I have  helped clients improve their operations and grow their businesses. My focus on using data to solve problems and achieve results makes him a valuable asset to any team looking to succeed in today’s financial and digital environments. </p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/rv-online"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/rahul-v-23b374292/"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_website_url:           "http://joelglovier.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      false
+
+# Design settings
+resume_theme:                   jekyll-theme-cayman
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

@@ -1,0 +1,24 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# AI in healthcare
+- project: AI in Healthcare
+  role: Associate
+  duration: Jun 2023 &mdash; Aug 2023
+  # url: "#"
+  description: Together with college students, we've developed a machine learning model to detect various disorders in newborns. It uses advanced algorithms to identify conditions like autism, ADHD, congenital heart defects, and metabolic disorders such as PKU. By analyzing genetic, physical, and behavioral data, our model enables early diagnosis and treatment, improving long-term outcomes for children.
+
+# Exo-Planet AI Detector
+- project: Exo-Planet AI Detector
+  role: Co-Founder 
+  duration: December 2022 &mdash; Janurary 2023
+  # url: "#"
+  description: Working with Stanford and high school students worldwide, we created an AI that detects exoplanets with 95% accuracy. The AI analyzes light curves, looking for dips in brightness when planets pass in front of stars. By training on this data, our AI can accurately find new planets in space.
+
+  # AI for driving speed 
+- project:  AI for Driving Speed.
+  role: Co-Founder 
+  duration: June 2022 &mdash; July 2023
+  # url: "#"
+  description: Teaming up with a Cornell professor and MS students, we created an AI that can read speed limit signs and adjust accordingly. Using computer vision technology, the AI scans road signs in real-time, recognizing different speed limits including digital and changing signs. It works by analyzing video feeds from vehicle cameras or roadside cameras, instantly updating the vehicle's speed to match the posted limit. We tested and fine-tuned the AI to ensure it responds accurately in various conditions, aiming to enhance road safety and compliance with speed limits.
+
